@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx
+huggingface-hub
+sentence-transformers
+chromadb
+python-dotenv
+pydantic
+websockets
